@@ -1,6 +1,6 @@
 Pc Bus Simulation Game
 
-Note : This Game Is Still In Prototype Stage!
+Note : This Game Is Still In Prototype Stage! & Highest settings are used in Hdrp. Recommended Graphics Card = 1060 or higher.
 
 We used Fmod as the sound engine
 
