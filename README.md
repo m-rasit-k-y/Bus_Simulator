@@ -4,7 +4,7 @@ Note : This Game Is Still In Prototype Stage! & Highest settings are used in Hdr
 
 We used Fmod as the sound engine
 
-- Controls
+- CONTROLS
 
 - E = Motor Start-Stop & Interact
 
